@@ -1,0 +1,36 @@
+C:\Users\DragonicK\Desktop\Windows_PDV\bin\Debug\Windows_PDV.exe.config
+C:\Users\DragonicK\Desktop\Windows_PDV\bin\Debug\Windows_PDV.exe
+C:\Users\DragonicK\Desktop\Windows_PDV\bin\Debug\Windows_PDV.pdb
+C:\Users\DragonicK\Desktop\Windows_PDV\obj\Debug\Windows_PDV.csprojResolveAssemblyReference.cache
+C:\Users\DragonicK\Desktop\Windows_PDV\obj\Debug\Windows_PDV.Properties.Resources.resources
+C:\Users\DragonicK\Desktop\Windows_PDV\obj\Debug\Windows_PDV.csproj.GenerateResource.Cache
+C:\Users\DragonicK\Desktop\Windows_PDV\obj\Debug\Windows_PDV.exe
+C:\Users\DragonicK\Desktop\Windows_PDV\obj\Debug\Windows_PDV.pdb
+C:\Users\DragonicK\Desktop\Windows_PDV\obj\Debug\Windows_PDV.Login.resources
+D:\Windows_PDV\bin\Debug\Windows_PDV.exe.config
+D:\Windows_PDV\obj\Debug\Windows_PDV.exe
+D:\Windows_PDV\obj\Debug\Windows_PDV.pdb
+D:\Windows_PDV\bin\Debug\Windows_PDV.exe
+D:\Windows_PDV\bin\Debug\Windows_PDV.pdb
+D:\Windows_PDV\obj\Debug\Windows_PDV.Login.resources
+D:\Windows_PDV\obj\Debug\Windows_PDV.Properties.Resources.resources
+D:\Windows_PDV\obj\Debug\Windows_PDV.csproj.GenerateResource.Cache
+D:\Windows_PDV\obj\Debug\Windows_PDV.csprojResolveAssemblyReference.cache
+D:\Projeto de Vendas (PDV)\Windows_PDV\bin\Debug\Windows_PDV.exe.config
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.exe
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.pdb
+D:\Projeto de Vendas (PDV)\Windows_PDV\bin\Debug\Windows_PDV.exe
+D:\Projeto de Vendas (PDV)\Windows_PDV\bin\Debug\Windows_PDV.pdb
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.Properties.Resources.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.csproj.GenerateResource.Cache
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.UserForm.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\bin\Debug\MetroFramework.Design.dll
+D:\Projeto de Vendas (PDV)\Windows_PDV\bin\Debug\MetroFramework.dll
+D:\Projeto de Vendas (PDV)\Windows_PDV\bin\Debug\MetroFramework.Fonts.dll
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.frmFornecedor.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.frmLogin.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.frmMain.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.frmProduto.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.frmVenda.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.CustomRow.resources
+D:\Projeto de Vendas (PDV)\Windows_PDV\obj\Debug\Windows_PDV.View.CustomGrid.resources
